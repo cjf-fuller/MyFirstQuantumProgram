@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstQuantumProgram", "MyFirstQuantumProgram\MyFirstQuantumProgram.csproj", "{9D207E40-017C-4EA8-9997-0970C4D30399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D207E40-017C-4EA8-9997-0970C4D30399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D207E40-017C-4EA8-9997-0970C4D30399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D207E40-017C-4EA8-9997-0970C4D30399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D207E40-017C-4EA8-9997-0970C4D30399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8998B8-3B9D-4456-88C6-CB0604B00DBD}
+	EndGlobalSection
+EndGlobal
